@@ -1,0 +1,22 @@
+{
+  "name": "wildberry-tart-pop",
+  "version": "1.0.0",
+  "description": "When you need to be reminded that Wildberry is the superior pastry flavor",
+  "publisher": "LumberSzquatch",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wildberry Tart Pop",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wildberry-tart-pop.json"
+      }
+    ]
+  },
+  "license": "ISC"
+}
