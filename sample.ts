@@ -13,4 +13,6 @@ export enum SessionGetters {
 async function sample(param: string, marap?: boolean) {
   const foo = "bar";
   let poop: Boolean = false;
+  SessionGetters.AUTHENTICATED;
+  Ses;
 }
