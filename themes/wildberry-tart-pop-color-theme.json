@@ -2,82 +2,82 @@
   "name": "Wildberry Tart Pop",
   "type": "dark",
   "colors": {
-    "editor.background": "#2E1536",
-    "editorCursor.foreground": "#F8F8F0",
-    "editor.foreground": "#E5B3E6",
-    "editorWhitespace.foreground": "#3B3A32",
-    "editor.lineHighlightBackground": "#3E3D32",
-    "editor.selectionBackground": "#6D5A70"
+    "editor.background": "#552866",
+    "editorCursor.foreground": "#e2cf24",
+    "editor.foreground": "#e2cf24",
+    "editorWhitespace.foreground": "#2770b4",
+    "editor.lineHighlightBackground": "#1d5a9293",
+    "editor.selectionBackground": "#8a2b2bd2"
   },
   "tokenColors": [
     {
       "settings": {
         "background": "#2E1536",
-        "foreground": "#E5B3E6"
+        "foreground": "#571c6e"
       }
     },
     {
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#5B426E"
+        "foreground": "#489ccc"
       }
     },
     {
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#FF57A0"
+        "foreground": "#5fb1fd"
       }
     },
     {
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#AE81FF"
+        "foreground": "#f74141"
       }
     },
     {
       "name": "Built-in constant",
       "scope": "constant.language",
       "settings": {
-        "foreground": "#AE81FF"
+        "foreground": "#f063d1"
       }
     },
     {
       "name": "User-defined constant",
       "scope": ["constant.character", "constant.other"],
       "settings": {
-        "foreground": "#AE81FF"
+        "foreground": "#f063d1"
       }
     },
     {
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "foreground": "#C173E6"
+        "foreground": "#bc58ff"
       }
     },
     {
       "name": "Keyword",
       "scope": "keyword",
       "settings": {
-        "foreground": "#C173E6"
+        "foreground": "#ff6666"
       }
     },
     {
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#F92672"
+        "foreground": "#5bb4fd"
       }
     },
     {
       "name": "Storage type",
       "scope": "storage.type",
       "settings": {
-        "foreground": "#FDDA01",
-        "fontStyle": " italic"
+        "foreground": "#65b4ff",
+        "fontStyle": "italic"
       }
     },
     {
@@ -100,14 +100,14 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#F92672"
+        "foreground": "#a777ff"
       }
     },
     {
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#FC771F",
+        "foreground": "#91aafd",
         "fontStyle": " italic"
       }
     },
@@ -124,7 +124,7 @@
       "scope": "entity.other.attribute-name",
       "settings": {
         "foreground": "#FDDA01",
-        "background": ""
+        "background": "#2E1536"
       }
     },
     {
